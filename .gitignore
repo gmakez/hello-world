@@ -1,3 +1,7 @@
+
+*.swp
+tmp*
+
 /blib/
 /.build/
 _build/
